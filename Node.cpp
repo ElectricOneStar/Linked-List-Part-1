@@ -1,5 +1,6 @@
 // Node class .cpp flie
 #include <iostream> // libraries
+#include <cstdlib>
 #include "Node.h"
 #include <cstring>
 using namespace std;
