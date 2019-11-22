@@ -2,6 +2,7 @@
 #define NODE_H
 #include "Student.h" // This is node class
 //#include "Node.h"
+#include <cstdlib>
 #include <iostream> // libraries
 #include <cstring>
 
