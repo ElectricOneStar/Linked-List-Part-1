@@ -1,6 +1,7 @@
 #include <iostream> // this is the .cpp file for the student class
 #include "Student.h"
 #include<cstring>
+#include <cstdlib>
 using namespace std;
 
 Student::Student(){ // constructor
