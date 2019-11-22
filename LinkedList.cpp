@@ -3,6 +3,7 @@ Linked list part 1 by Andrew Thomas 11/22/19 Mr.Galbraith C++ sem 1 Class. This 
 */
 #include <iostream> // libraries
 #include <cstring>
+#include <cstdlib>
 #include "Student.h"
 #include "Node.h"
 using namespace std;
